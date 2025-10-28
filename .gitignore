@@ -1,0 +1,7 @@
+**/build
+**/bin
+**/out
+**/dist
+**/*.exe
+**/*.class
+**/.vscode/
