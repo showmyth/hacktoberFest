@@ -13,34 +13,26 @@ To complete Hacktoberfest 2025, you need to make *6 accepted pull requests (PRs)
 ---
 
 ## 📌 How to Contribute
-1. **Fork this repository** (click the Fork button at the top right of this page).
-2. **Clone your fork** to your local machine:
-   
-   '''bash
+1. **Fork this repository** (click the Fork button at the top right of this page).  
+2. **Clone your fork** to your local machine:  
+   ```bash
    git clone https://github.com/showmyth/hacktoberFest
-   '''
-   
-4. **Create a new branch** for your changes:
+   ```  
+3. **Create a new branch** for your changes:  
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```  
+4. **Make your edits or add new features.**  
+5. **Commit** with a meaningful message:  
+   ```bash
+   git commit -m "Add: new C++ program for beginners"
+   ```  
+6. **Push your changes** to your fork:  
+   ```bash
+   git push origin feature/your-feature-name
+   ```  
+7. **Open a Pull Request (PR)** describing your changes.
 
-'''bash
-git checkout -b feature/your-feature-name
-'''
-
-Make your edits or add new features.
-
-4. **Commit** with a meaningful message:
-
-'''bash
-git commit -m "Add: new C++ program for beginners
-'''
-
-5. **Push your changes** to your fork:
-
-'''bash
-git push origin feature/your-feature-name
-'''
-
-Open a Pull Request (PR) describing your changes.
 ---
 
 ## 🛠️ Contribution Guidelines
