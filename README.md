@@ -16,23 +16,24 @@ To complete Hacktoberfest 2025, you need to make *6 accepted pull requests (PRs)
 1. **Fork this repository** (click the Fork button at the top right of this page).
 2. **Clone your fork** to your local machine:
    
-   'git clone https://github.com/showmyth/hacktoberFest'
+   '''git clone https://github.com/showmyth/hacktoberFest'''
    
 3. **Create a new branch** for your changes:
 
-'git checkout -b feature/your-feature-name'
+'''git checkout -b feature/your-feature-name'''
 
 Make your edits or add new features.
 
 4. **Commit** with a meaningful message:
 
-'git commit -m "Add: new C++ program for beginners'
+'''git commit -m "Add: new C++ program for beginners'''
 
 5. **Push your changes** to your fork:
 
-'git push origin feature/your-feature-name'
+'''git push origin feature/your-feature-name'''
 
 Open a Pull Request (PR) describing your changes.
+---
 
 ## 🛠️ Contribution Guidelines
 - Fork this repository
@@ -44,6 +45,7 @@ Open a Pull Request (PR) describing your changes.
 - Commit with a meaningful message
 
 - Open a Pull Request (PR) describing your changes
+---
 
 ## 📚 Project Structure
 - src/ - C++ source files
@@ -53,6 +55,7 @@ Open a Pull Request (PR) describing your changes.
 - docs/ - Documentation and guides
 
 - tests/ - Unit tests (if applicable)
+---
 
 ## 📝 Ideas for Contributions
 - Add new C++ programs (e.g., sorting, calculator, file handling)
@@ -64,9 +67,11 @@ Open a Pull Request (PR) describing your changes.
 - Add beginner-friendly issues
 
 - Create a CONTRIBUTING.md file
+---
 
 ## 🤝 Code of Conduct
 - Please be respectful and kind to all contributors. Follow the Contributor Covenant Code of Conduct.
+---
 
 ## 📜 License
 - This project is licensed under the MIT License — see the LICENSE file for details.
